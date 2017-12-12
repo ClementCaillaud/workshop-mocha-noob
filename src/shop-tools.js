@@ -9,3 +9,8 @@ exports.getPrices = function ()
     "apple": 6
   };
 }
+
+exports.countArticles = function(products)
+{
+    return products.length;
+}
