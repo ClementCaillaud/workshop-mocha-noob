@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var shop_tools = require('./../src/shop-tools.js');
+var shop_tools = require('../src/shop-tools.js');
 
 describe('Function getPrices()', function()
 {
